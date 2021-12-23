@@ -49,4 +49,4 @@ final as (
 
 )
 
-select sum(amount) as lifetime_value from final;
+select * from final
